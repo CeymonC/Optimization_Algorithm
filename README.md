@@ -1,4 +1,6 @@
 # Optimization Algorithm
-Including various optimization algorithms.
-### 1. Gradient descent
-### 2. Gradient descent backtracking
+Including various optimization algorithms. 
+### All codes are in master branch.
+#### 1. Gradient descent
+#### 2. Gradient descent backtracking
+#### 3. BFGS algorithm
