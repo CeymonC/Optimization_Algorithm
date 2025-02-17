@@ -4,3 +4,4 @@ Including various optimization algorithms.
 #### 1. Gradient descent
 #### 2. Gradient descent backtracking
 #### 3. BFGS algorithm
+#### 4. NAG
