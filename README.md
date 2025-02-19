@@ -6,3 +6,4 @@ Including various optimization algorithms.
 #### 3. BFGS algorithm
 #### 4. NAG
 #### 5. Adam
+#### 6. SA
