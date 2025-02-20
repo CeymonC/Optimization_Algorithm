@@ -7,3 +7,4 @@ Including various optimization algorithms.
 #### 4. NAG
 #### 5. Adam
 #### 6. SA
+#### 7. ACO
