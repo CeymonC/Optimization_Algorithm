@@ -8,3 +8,4 @@ Including various optimization algorithms.
 #### 5. Adam
 #### 6. SA
 #### 7. ACO
+#### 8. PSO
